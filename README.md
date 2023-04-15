@@ -1,2 +1,13 @@
-# Pitch_tempo_volume
-【Processing】音程・速度・音量調節
+# 音程・速度・音量調節（Processing）
+ カーソルによって音程・速度・音量を調節するソースコードです。
+
+## 実行内容
+- カーソルによって以下のパラメーターを調節
+-- 音程
+-- 速度
+-- 音量
+
+## ファイル
+- Pitch_tempo_volume.pde
+- 音程・速度・音量調節.txt
+- README.md
